@@ -55,7 +55,7 @@ bash <(curl -s https://raw.githubusercontent.com/eswar-7116/termlock/main/uninst
 - After installing or uninstalling, **restart your terminal** (or run `source ~/.bashrc` or `source ~/.zshrc` manually).
 - **If you forget your password**, simply **re-run the setup script** to reset it:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/yourusername/yourrepo/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/eswar-7116/termlock/main/setup.sh)
 ```
 **No reboot** is required, just restart your terminal to apply the new password.
 
